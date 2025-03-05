@@ -12,8 +12,6 @@ This C program is a simple number guessing game. The computer randomly selects a
 4. The game continues until the correct number is guessed.
 5. The total number of attempts is displayed at the end.
 
-## Installation & Usage
-
 ### Requirements
 - A C compiler (e.g., GCC, Clang, MSVC)
 
